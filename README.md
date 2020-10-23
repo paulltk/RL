@@ -8,5 +8,5 @@ David Knigge (davidknigge@live.nl) <br>
 Paul ten Kaate (paultenkaate@outlook.com) <br>
 
 # Files 
-Linear function approximation implementation can be found in linear_function.ipynb<br>
-Deep Q-network implementation can be found in dqn.ipynb
+Linear function approximation implementation can be found in *linear_function.ipynb*<br>
+Deep Q-network implementation can be found in *dqn.ipynb*
